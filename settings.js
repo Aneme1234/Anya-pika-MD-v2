@@ -8,8 +8,8 @@ global.simpleBotname = "Anya" //⚠️ Only use normal and one work name here or
 
 //------------❤️ 𝗕𝗼𝘁 𝗱𝗲𝘁𝗮𝗶𝗹𝘀 ❤️-----------\\
 global.botname = "×͜× Basco bot™ ✓" 
-global.websitex = "https://github.com/Pika4O4" // Website to be displayed //
-global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link //
+global.websitex = "https://eva nh" // Website to be displayed //
+global.botscript = 'https://ane me eva dennna bh' // Script link //
 global.packname = "Bascp💫" // sticker watermark packname //
 global.author = "Bascoꪖ" // sticker watermark author //
 actiontitle = '࿙⚜Basco࿚' // text who displays on the top of welcome and left message //
